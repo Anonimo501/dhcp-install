@@ -1,2 +1,2 @@
 # dhcp-install
-DHCP INSTAL
+DHCP INSTALL
